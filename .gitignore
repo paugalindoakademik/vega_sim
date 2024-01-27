@@ -1,0 +1,4 @@
+vega_sim_env/
+gem5/
+
+!gem5/configs/example/
