@@ -5,7 +5,7 @@
 
 ### CPU
 
-- **ISA**                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x86
+- **ISA**                   &emsp;&emsp;&emsp;&emsp;&emsp;x86
 - **Microarchitecture**     Zen
 
 - **# CORES:**				4
