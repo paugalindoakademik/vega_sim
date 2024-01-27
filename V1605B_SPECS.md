@@ -21,7 +21,7 @@
 - **L2 Cache**				4x512KB 8-way set associative caches
 
 - **Total L3 Size**			4MB
-- **L3 Cache**				4MB 16-way set associative shared cache
+- **L3 Cache**				1x4MB 16-way set associative shared cache
 
 - **Physical Memory**		32GB
 
