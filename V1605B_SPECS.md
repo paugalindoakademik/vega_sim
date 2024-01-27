@@ -5,14 +5,14 @@
 
 ### CPU
 
-- **ISA**                   &emsp;&emsp;&emsp;&emsp;&emsp;x86
+- **ISA**                   x86
 - **Microarchitecture**     Zen
 
-- **# CORES:**				4
-- **# THREADS**				8
+- **# Cores:**				4
+- **# Threads**				8
 
-- **MAX FREQ.**				3.6GHz
-- **BASE FREQ.**			2GHz
+- **Max Freq.**				3.6GHz
+- **Base Freq.**			2GHz
 
 - **Instruction L1 Cache**	4x64KB 4-way set associative instruction caches
 - **Data L1 Cache**			4x32KB 8-way set associative data caches
@@ -29,13 +29,13 @@
 
 ### GPU
 
-- **MAX FREQ.**				1100 MHz
+- **Max Freq.**				1100 MHz
 - **CU**					8
 - **Shader Cores**			512
 
 ### System Memory
 
-- **TYPE**					DDR4@2400 MT/s
+- **Type**					DDR4@2400 MT/s
 - **Controller** 			Dual Channel w/ ECC
 
 ### Electrical / Thermal Parameters
