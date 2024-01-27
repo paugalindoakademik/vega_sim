@@ -1,4 +1,9 @@
 vega_sim_env/
 gem5/
+images/
+kernel/
+apps/square
+mmio/
+m5out/
 
 !gem5/configs/example/
