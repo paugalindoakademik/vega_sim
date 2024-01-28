@@ -48,6 +48,7 @@
 - https://www.amd.com/en/products/specifications/embedded/8191+11961
 - https://www.cpu-world.com/CPUs/Zen/AMD-Ryzen%20Embedded%20V1000%20V1605B.html
 - https://en.wikichip.org/wiki/amd/ryzen_embedded/v1605b#google_vignette
+- https://www.amd.com/content/dam/amd/en/documents/radeon-tech-docs/instruction-set-architectures/vega-shader-instruction-set-architecture.pdf
 
 
 
